@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { TiLocationArrow } from 'react-icons/ti';
 import { useWindowScroll } from 'react-use';
 import gsap from 'gsap';
